@@ -43,7 +43,7 @@
         <counts>
           <entry key="css" value="14" />
           <entry key="html" value="1044" />
-          <entry key="js" value="2428" />
+          <entry key="js" value="2440" />
           <entry key="json" value="50" />
         </counts>
       </usages-collector>
@@ -52,14 +52,14 @@
           <entry key="CSS" value="14" />
           <entry key="HTML" value="1044" />
           <entry key="JSON" value="50" />
-          <entry key="JavaScript" value="2428" />
+          <entry key="JavaScript" value="2440" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -95,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/routes/authRoutes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="285">
+              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -258,12 +258,12 @@
       <option name="presentableId" value="Default" />
       <updated>1537642443889</updated>
       <workItem from="1537642446006" duration="288000" />
-      <workItem from="1537642785255" duration="36182000" />
+      <workItem from="1537642785255" duration="37049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36470000" />
+    <option name="totallyTimeSpent" value="37337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="877" y="129" width="697" height="712" extended-state="0" />
@@ -430,17 +430,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/routes/authRoutes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/authRoutes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
