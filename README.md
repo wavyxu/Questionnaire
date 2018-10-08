@@ -16,7 +16,7 @@ This program is developed with React, Redux, NodeJS, Express, MongoDB, Heroku an
 >npm install react <br>
 >npm install --save express <br>
 >npm install --save nodemon <br>
->$ brew install heroku/brew/heroku
->npm install --save materialize-
->npm install --save axios redux-thunk
->npm install --save react-stripe-checkout
+>$ brew install heroku/brew/heroku<br>
+>npm install --save materialize-<br>
+>npm install --save axios redux-thunk<br>
+>npm install --save react-stripe-checkout<br>
