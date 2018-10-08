@@ -13,7 +13,7 @@ A Web application for users to create online Questionnaire. <br>
 
 This program is developed with React, Redux, NodeJS, Express, MongoDB, Heroku and so no.
 
-- npm install react
+>npm install react
 - npm install --save express
 - npm install --save nodemon
 - $ brew install heroku/brew/heroku
