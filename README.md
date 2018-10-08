@@ -1,13 +1,21 @@
 # Questionnaire
-A Web application for users to create online Questionnaire. <br> 
+A Web application for users to create online Questionnaire. Online pay for customization service. Virtualize survey results.
 
 ## Features
 
-- Login with the third-party accounts, like Google+
-- Payment for credits
-- Customize questionnaire and send email for survey
-- Collect survey results
-- Virtualize survey results
+### Interactive 
+- Using React + Redux, React Router, MaterilizeCSS and so no
+### Authentication
+- Login with the third-party accounts, like Google+. Authorize with Google OAuth API
+### Payment
+- Using stripe API for real credit cards payment
+### Customize Survey Form
+- Using Redux Form API
+### Send Email
+- Using sendgrid API
+### Store Data
+- Using remote MongoDB and mongoose API 
+
 
 ## Setting up development environment
 
