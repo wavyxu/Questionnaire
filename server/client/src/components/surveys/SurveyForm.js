@@ -40,14 +40,14 @@ class SurveyForm extends Component {
 }
 function validate(values) {
     const errors = {};
-
-    _.each(formFields, ({ name, noValueError }) => {
+    errors.recipient = validateEmails(values.recipient || '');
+    _.each(formFields, ({ name }) => {
        if (!values[name]) {
-           errors[name] = noValueError;
+           errors[name] = 'You must provide a valid value';
        }
     });
 
-    errors.email = validateEmails(values.emails || '');
+
     return errors;
 }
 export default reduxForm({
